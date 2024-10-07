@@ -1,0 +1,27 @@
+.list {
+  display: flex;
+  gap: 30px;
+  justify-content: center;
+  flex-direction: column;
+  padding-top: 100px;
+  list-style: none;
+}
+.descr {
+  padding: 15px 25px;
+  border-radius: 10px;
+}
+.good {
+  background-color: #56d57f;
+}
+.bad {
+  background-color: #eb4c42;
+}
+.neutral {
+  background-color: #fffd74;
+}
+.total {
+  background-color: #ffa9eb;
+}
+.positive {
+  background-color: #00cb66;
+}
